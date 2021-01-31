@@ -1,0 +1,8 @@
+[alias]
+        st = status
+        df = diff -w
+        co = checkout
+        ci = commit
+        br = branch
+        amend = commit --amend
+        oneline = log --pretty=oneline --abbrev-commit --graph --decorate
