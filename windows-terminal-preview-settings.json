@@ -3,6 +3,7 @@
 // For documentation on these settings, see: https://aka.ms/terminal-documentation
 
 {
+    "wordDelimiters" : " ",
     "$schema": "https://aka.ms/terminal-profiles-schema",
 
     "defaultProfile": "{00000000-0000-0000-ba54-000000000002}",
